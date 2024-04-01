@@ -81,7 +81,7 @@ a {
 }
 
 a:hover {
-  color: #434190;
+  color: #FF9800;
 }
 
 i {
@@ -275,7 +275,7 @@ input:disabled {
 
 .bttn.active:hover,
 .bttn__primary:hover {
-  background-color: #4c51bf;
+  background-color: grey;
 }
 
 .codeblock {
