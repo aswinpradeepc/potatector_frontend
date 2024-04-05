@@ -4,7 +4,7 @@ import happyFarmerImage from './happiepotato.jpg'; // Add the path to the happy 
 const About = () => {
     return (
         <div className="container center" style={{ backgroundColor: '#D9EDBF' }}>
-            <div className="about" style={{display: 'flex', alignItems: 'center'}}>
+            <div className="about" >
 
                 <div className="about__content">
                     <h2 className="about__title">About Potato Disease Detector</h2>
