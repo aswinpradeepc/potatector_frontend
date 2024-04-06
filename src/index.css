@@ -379,3 +379,14 @@ input:disabled {
 .result-text {
   flex-basis: 70%;
 }
+
+.send-email-btn {
+  margin-right: 1rem; /* Adjust the value as needed */
+}
+
+.success-message {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+}
